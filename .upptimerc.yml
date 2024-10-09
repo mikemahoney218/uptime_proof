@@ -1,36 +1,32 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: mikemahoney218 # Your GitHub organization or username, where this repository lives
+repo: uptime_proof # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: iv
+    url: https://waterservices.usgs.gov/nwis/iv/?format=json&sites=01103025
+  - name: dv
+    url: https://waterservices.usgs.gov/nwis/dv/?format=json&sites=01103025
+  - name: site
+    url: https://waterservices.usgs.gov/nwis/site/?format=rdb&sites=01103025
+  - name: stats
+    url: https://waterservices.usgs.gov/nwis/stat/?format=rdb&sites=01103025&statReportType=daily&statTypeCd=all
+  - name: gwlevels
+    url: https://waterservices.usgs.gov/nwis/gwlevels/?format=json&sites=422819071065701
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /uptime_proof
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: WaterServices Status
+  introTitle: "Unofficial page tracking WaterServices availability."
+  introMessage: This is a an unofficial website tracking the availability of WaterServices APIs. This is a personal project, not affiliated with any organization.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/mikemahoney218/uptime_proof
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
