@@ -24,7 +24,7 @@ status-website:
   introMessage: This is a an unofficial website tracking the availability of WaterServices APIs. This is a personal project, not affiliated with any organization.
   navbar:
     - title: Status
-      href: /
+      href: /uptime_proof
     - title: GitHub
       href: https://github.com/mikemahoney218/uptime_proof
 
