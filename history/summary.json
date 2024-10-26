@@ -4,10 +4,10 @@
     "url": "https://waterservices.usgs.gov/nwis/iv/?format=json&sites=01103025",
     "icon": "https://icons.duckduckgo.com/ip3/waterservices.usgs.gov.ico",
     "slug": "iv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
     "time": 490,
@@ -16,6 +16,7 @@
     "timeMonth": 490,
     "timeYear": 490,
     "dailyMinutesDown": {
+      "2024-10-26": 2,
       "2024-10-19": 17,
       "2024-10-13": 42
     }
@@ -25,10 +26,10 @@
     "url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=01103025",
     "icon": "https://icons.duckduckgo.com/ip3/waterservices.usgs.gov.ico",
     "slug": "dv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
     "time": 240,
@@ -37,6 +38,7 @@
     "timeMonth": 240,
     "timeYear": 240,
     "dailyMinutesDown": {
+      "2024-10-26": 1,
       "2024-10-19": 16,
       "2024-10-13": 42
     }
@@ -46,18 +48,19 @@
     "url": "https://waterservices.usgs.gov/nwis/site/?format=rdb&sites=01103025",
     "icon": "https://icons.duckduckgo.com/ip3/waterservices.usgs.gov.ico",
     "slug": "site",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 213,
     "timeDay": 6,
     "timeWeek": 44,
     "timeMonth": 213,
     "timeYear": 213,
     "dailyMinutesDown": {
+      "2024-10-26": 1,
       "2024-10-19": 16,
       "2024-10-13": 42
     }
@@ -67,10 +70,10 @@
     "url": "https://waterservices.usgs.gov/nwis/stat/?format=rdb&sites=01103025&statReportType=daily&statTypeCd=all",
     "icon": "https://icons.duckduckgo.com/ip3/waterservices.usgs.gov.ico",
     "slug": "stats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.76%",
     "time": 284,
@@ -79,6 +82,7 @@
     "timeMonth": 284,
     "timeYear": 284,
     "dailyMinutesDown": {
+      "2024-10-26": 0,
       "2024-10-19": 15,
       "2024-10-13": 42
     }
@@ -88,18 +92,19 @@
     "url": "https://waterservices.usgs.gov/nwis/gwlevels/?format=json&sites=422819071065701",
     "icon": "https://icons.duckduckgo.com/ip3/waterservices.usgs.gov.ico",
     "slug": "gwlevels",
-    "status": "up",
-    "uptime": "99.75%",
+    "status": "down",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 15978,
     "timeDay": 16630,
     "timeWeek": 17012,
     "timeMonth": 15978,
     "timeYear": 15978,
     "dailyMinutesDown": {
+      "2024-10-26": 0,
       "2024-10-19": 15,
       "2024-10-13": 42
     }
