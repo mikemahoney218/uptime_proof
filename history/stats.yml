@@ -1,7 +1,7 @@
 url: https://waterservices.usgs.gov/nwis/stat/?format=rdb&sites=01103025&statReportType=daily&statTypeCd=all
 status: up
 code: 200
-responseTime: 226
-lastUpdated: 2024-11-20T23:17:25.200Z
+responseTime: 316
+lastUpdated: 2024-11-21T23:17:36.078Z
 startTime: 2024-10-09T20:33:55.341Z
 generator: Upptime <https://github.com/upptime/upptime>
