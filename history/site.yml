@@ -1,7 +1,7 @@
 url: https://waterservices.usgs.gov/nwis/site/?format=rdb&sites=01103025
-status: down
-code: 503
-responseTime: 48
-lastUpdated: 2025-02-25T21:43:01.931Z
+status: up
+code: 200
+responseTime: 76
+lastUpdated: 2025-02-25T21:55:19.759Z
 startTime: 2024-10-09T20:33:55.070Z
 generator: Upptime <https://github.com/upptime/upptime>
