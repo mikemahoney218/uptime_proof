@@ -1,7 +1,7 @@
 url: https://waterservices.usgs.gov/nwis/gwlevels/?format=json&sites=422819071065701
 status: up
 code: 200
-responseTime: 16766
-lastUpdated: 2025-04-26T23:18:15.349Z
+responseTime: 17898
+lastUpdated: 2025-04-27T23:19:31.080Z
 startTime: 2024-10-09T20:33:55.628Z
 generator: Upptime <https://github.com/upptime/upptime>
