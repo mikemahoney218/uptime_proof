@@ -1,7 +1,7 @@
 url: https://waterservices.usgs.gov/nwis/iv/?format=json&sites=01103025
 status: up
 code: 200
-responseTime: 127
-lastUpdated: 2025-05-18T23:17:48.239Z
+responseTime: 114
+lastUpdated: 2025-05-19T23:18:25.845Z
 startTime: 2024-10-09T20:33:54.351Z
 generator: Upptime <https://github.com/upptime/upptime>
